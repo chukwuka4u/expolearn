@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "irstapp",
+    "slug": "irstapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./asset/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./asset/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#25292e"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./asset/adaptive-icon.png",
+        "backgroundColor": "#25292e"
+      }
+    },
+    "web": {
+      "favicon": "./asset/favicon.png"
+    }
+  }
+}
